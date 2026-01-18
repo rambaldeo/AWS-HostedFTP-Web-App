@@ -9,4 +9,4 @@ I really wanted to have my own website published so i want to improve on this an
 
 I utilize TomCat server with Nginx to reverse proxy and handle the requests while using services from AWS to host the webapp on my domain.
 
-I will update this as I go and the link to the actual website is https://hostedftp.rambpersonal.click/
+I will update this as I go and the link to the actual website is https://personaljava.rambpersonal.click
